@@ -14,8 +14,7 @@ const uploadConfig = require("./configs/upload");
 const cors = require("cors");
 
 
-
-sqliteConnection();
+sqliteConnection()
 
 const app = express();
 app.use(cors());
