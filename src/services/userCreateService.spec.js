@@ -33,14 +33,14 @@ describe("UserCreateService", () =>{
     it("user not should be created with exists email", async () => {
         const user1 = {
             name: "User test 1",
-            email: "user@test.com",
+            email: "user@test1.com",
             password:"123"
         };
 
         const user2 = {
             name: "User test 2",
-            email: "user@test.com",
-            password:"456"
+            email: "user@test2.com",
+            password:"000"
         };
 
        

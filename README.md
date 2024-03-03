@@ -74,7 +74,7 @@ $ npm run dev
 #### 🔑Aplicação vista pelo Admin. Use a conta a seguir:
 
 ```bash
-  e-mail: duda@email.com
+  e-mail: food@admin.com
   senha: 123456
 ```
 ___
