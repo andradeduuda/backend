@@ -10,8 +10,8 @@ ___
 # Sobre o Food Explorer
 O Food Explorer é uma aplicação web de restaurante que permite aos usuários criar, acompanhar, e personalizar seus pratos e perfis. 
 Oferecendo recursos como: favoritos, busca, e contato com o restaurante. 
-O carrinho é prático e funcional, com opções de pagamento por cartão ou Pix. 
-O administrador tem controle sobre pratos, pedidos e status de preparo na cozinha. O projeto inclui extras como mudança de tema e efeitos visuais, sendo responsivo para vários dispositivos, e tendo a opção modo escuro. Os dados do Frontend em React.js e do Backend em Node.js estão neste repositório.
+
+O administrador tem controle sobre pratos, pedidos e status de preparo na cozinha. 
 
 ___
 
@@ -33,8 +33,8 @@ ___
 # Execute o clone em seu computador
 
 ```bash
-$ git clone front-end https://github.com/andradeduuda/food-explorer-frontend.git
-$ git clone back-end https://github.com/andradeduuda/food-explorer-backend.git
+$ git clone front-end 
+$ git clone back-end 
 ```
 ___
 
@@ -45,7 +45,7 @@ ___
   PORT=
 
 # Navegue até o diretório do backend
-$ cd food-explorer-desafio-backend
+$ cd 
 
 # Instale as dependências
 $ npm install
@@ -58,7 +58,7 @@ ___
 - FrontEnd
 ```bash
 # Navegue até a pasta do diretório do frontend
-$ cd food-explorer-desafio-frontend
+$ cd 
 
 # Instale as dependências
 $ npm install
@@ -74,7 +74,7 @@ $ npm run dev
 #### 🔑Aplicação vista pelo Admin. Use a conta a seguir:
 
 ```bash
-  e-mail: food@admin.com
+  e-mail: food@explorer.com
   senha: 123456
 ```
 ___
@@ -87,4 +87,4 @@ ___
 Por ser utilizada uma hopedagem gratuita, você poderá enfrentar dificuldades, e um pouso de lentidão para entrar. Tenha paciência, o processo levará cerca de 1min.
 <br>
 
-[RESULTADO FINAL](https://profood-explorer.netlify.app/)
+[RESULTADO FINAL](https://)
